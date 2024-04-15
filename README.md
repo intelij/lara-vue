@@ -9,6 +9,12 @@ Laravel backend.
 php artisan migrate --seed
 `
 
+### Run the service:
+
+`
+php artisan serve
+`
+
 
 # FRONTEND
 
@@ -20,4 +26,4 @@ Vue frontend
 npm run dev
 `
 
-### Visit frontend http://localhost:300:
+### Visit frontend http://localhost:3000
