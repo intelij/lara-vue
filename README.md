@@ -19,6 +19,7 @@ php artisan serve
 
 `
 php artisan test
+`
 
    PASS  Tests\Unit\ExampleTest
   ✓ that true is true
@@ -56,9 +57,7 @@ php artisan test
 
   Tests:  18 passed
   Time:   1.28s
-`
-
-
+  
 # FRONTEND
 
 Vue frontend
